@@ -139,7 +139,7 @@ section {
   position: absolute;
   bottom: 0;
   left: 0%;   /* ←ここで“右寄り”に調整 */
-  width: 800px;
+  width: 790px;
   height: 1px;
   background: #aaa;
 }
@@ -673,6 +673,16 @@ section {
     height: 180px;
   box-shadow: 0 8px 20px rgba(85,84,84);
   }
+
+  .organic .section-title::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  right: 0%;   /* ←ここで“右寄り”に調整 */
+  width: 220px;
+  height: 1px;
+  background: #aaa;
+}
 
   .organic p {
     font-size: 14px;
