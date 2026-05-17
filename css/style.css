@@ -139,7 +139,7 @@ section {
   position: absolute;
   bottom: 0;
   left: 0%;   /* ←ここで“右寄り”に調整 */
-  width: 790px;
+  width: 780px;
   height: 1px;
   background: #aaa;
 }
