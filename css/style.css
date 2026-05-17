@@ -651,8 +651,10 @@ section {
     width: 180px;
     height: 180px; 
     margin-top: -10px;
-    position: relative;
-    left: 10px;
+    /* position: relative;
+    left: 10px; */
+    margin-right: auto;
+    margin-left: auto;
     box-shadow: 0 8px 20px rgb(85, 84, 84);
   }
 
