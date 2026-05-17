@@ -679,7 +679,7 @@ section {
   position: absolute;
   bottom: 0;
   right: 0%;   /* ←ここで“右寄り”に調整 */
-  width: 220px;
+  width: 200px;
   height: 1px;
   background: #aaa;
 }
